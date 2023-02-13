@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866015326553",
+    "project_id": "testnotiiostandroid",
+    "storage_bucket": "testnotiiostandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866015326553:android:e8feab897197df11c89c48",
+        "android_client_info": {
+          "package_name": "com.example.testnotiiosandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866015326553-6drllo69ik528s0rr1l9i8b4u9kte2om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzA3o3aN_V2DwwCqyR_WLvs8OuDB0elNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866015326553-6drllo69ik528s0rr1l9i8b4u9kte2om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
